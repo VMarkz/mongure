@@ -4,7 +4,7 @@
   <groupId>org.clojars.vmarkz</groupId>
   <artifactId>mongure</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>mongure</name>
   <description>A mongodb starter to use in clojure tests</description>
   <url>https://github.com/VMarkz/mongure</url>
@@ -19,7 +19,7 @@
     <url>https://github.com/VMarkz/mongure</url>
     <connection>scm:git:git://github.com/VMarkz/mongure.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/VMarkz/mongure.git</developerConnection>
-    <tag>ab36a8166eff115949c1fb53f773322ac1390f9f</tag>
+    <tag>d6bc83c32987449eab56c33338d948d2edfe63d1</tag>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>

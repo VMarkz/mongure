@@ -1,4 +1,4 @@
-(defproject org.clojars.vmarkz/mongure "1.0.0-SNAPSHOT"
+(defproject org.clojars.vmarkz/mongure "1.0.1"
             :description "A mongodb starter to use in clojure tests"
             :url "https://github.com/VMarkz/mongure"
             :license {:name "The MIT License"
