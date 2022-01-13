@@ -3,3 +3,6 @@
 .lein-failures
 .nrepl-port
 target/
+.calva/
+.clj-kondo/
+.lsp/
